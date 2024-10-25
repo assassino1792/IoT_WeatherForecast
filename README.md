@@ -1,2 +1,2 @@
 # IoT_WeatherForecast
-Időjárás előrejelzés ESP8266-os mikrovezérlőn dokumentációval.
+Időjárás előrejelzés ESP8266-os mikrovezérlővel és dokumentációval.
